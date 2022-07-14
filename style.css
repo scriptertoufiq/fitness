@@ -145,3 +145,23 @@ body {
     color: gray;
     font-weight: 500;
 }
+
+footer {
+    background: black;
+    padding: 50px 30px;
+}
+
+footer h2 {
+    text-align: center;
+    color: gray;
+}
+
+footer span {
+    color: orange;
+    margin: 0 10px;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
+}
